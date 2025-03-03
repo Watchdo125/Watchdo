@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=watchdo" alt="watchdo" /></a> </p>
 
-- 🔭 I’m currently working on **Ultra edit website**
-
-- 🌱 I’m currently learning **Javascrpit**
+- 🔭 I’m currently working on **UltraEdit website**
 
 - Another Project **Netflix Clone**
 
